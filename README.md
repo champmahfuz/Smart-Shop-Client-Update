@@ -49,4 +49,4 @@ You can visit out [Smart Shop](https://smart-shop-client-update-zmsg.vercel.app)
 
 ##### Server
 
-- [GitHub (Smart Shop Server)](https://github.com/imRHB/smart-shop-server)
+- [GitHub (Smart Shop Server)](https://github.com/champmahfuz/Smart-Shop-Server-Update)
